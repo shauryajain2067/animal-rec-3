@@ -36,3 +36,7 @@ img.src="cow.jfif";
         img.src="th.jfif";
     }
 }
+function orpmai(){
+    thisfunction(issus)
+    
+}
